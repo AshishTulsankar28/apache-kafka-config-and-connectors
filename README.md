@@ -1,2 +1,3 @@
-# apache-kafka-config-and-connectors
- Apache Kafka Config & Connectors
+# Apache Kafka
+
+Configurations & connectors
